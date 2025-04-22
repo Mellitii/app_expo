@@ -11,6 +11,9 @@
     "ios": {
       "supportsTablet": true
     },
+    "android": {
+      "package": "dress.mt.app"
+    },
     "web": {
       "bundler": "metro",
       "output": "single",
@@ -22,8 +25,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "459e0d2c-064f-4d0f-b6e5-d3387d7498ec"
+        "projectId": "12345678-90ab-cdef-1234-567890abcdef"
       }
     }
   }
 }
+
